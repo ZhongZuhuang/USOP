@@ -1,0 +1,42 @@
+.Title_View {
+    font-size: 2rem;
+    margin: 0;
+    padding-left: 1rem;
+    border-left: white 0.8rem solid;
+}
+
+.Card_SubView {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Input_UserInfo_Card {
+    background-color: #2e2e2e;
+    display: block;
+    width: 20vw;
+    padding: 2rem;
+    border-radius: 1rem;
+    border-left: #ffffff 0.3rem solid;
+}
+
+.Input_Info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1rem 0 1rem 0;
+}
+
+.Input_Info input {
+    border: #828282 solid;
+    border-radius: 2rem;
+    width: 15rem;
+    font-size: larger;
+    padding-left: 1rem;
+}
+
+.Input_Info p {
+    font-size: larger;
+    text-align: right;
+}

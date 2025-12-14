@@ -1,0 +1,8 @@
+.view {
+    width: calc(85vw - 12rem);
+    margin: 6rem;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: space-between;
+}

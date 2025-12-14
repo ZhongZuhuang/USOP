@@ -1,0 +1,52 @@
+.Card_Userinfo {
+    background-color: #2e2e2e;
+    display: block;
+    width: 20vw;
+    padding: 2rem;
+    border-radius: 1rem;
+    border-left: #ffffff 0.3rem solid;
+}
+
+.Card_Userinfo h1, h2 {
+    margin: 0;
+}
+
+.Group_Username {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.Group_Username img{
+    width: 2rem;
+    height: 2rem;
+}
+
+.Hobbies, .School, .Age {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Hobbies img{
+    width: 2rem;
+    height: 2rem;
+}
+
+.School img{
+    width: 1.7rem;
+    height: 1.7rem;
+    margin-left: 0.1rem;
+    margin-right: 0.2rem;
+}
+
+.Age img{
+    width: 2rem;
+    height: 2rem;
+}
+
+.Hobbies h2, .School h2, .Age h2{
+    margin-left: 1rem;
+}
