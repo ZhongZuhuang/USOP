@@ -65,7 +65,7 @@ This is a **Chinese-based project**. As a beginner, the initial development was 
 This project is not only my learning record, but also hopes to be a communication platform for beginners! You are welcome to participate in the following ways:
 1. **Submit suggestions/feedback**: If you find bugs, have optimization ideas or encounter problems during learning, directly submit `Issues`, and I will reply within 24-48 hours;
 2. **Develop new features**: If you want to practice a new knowledge point (such as adding Redis cache to the backend, integrating Element Plus component library to the frontend, etc.), you can develop based on the `develop` branch and submit a `PR` after completion;
-3. **PR merging standards**: The submitted code must ensure that the core functions can run normally and be accompanied by a simple function description. I will review it and merge it into the `master` branch, and note your ID in the contributor list.
+3. **PR merging standards**: The submitted code must ensure that the core functions can run normally and be accompanied by a simple function description. I will review it and merge it into the `main` branch, and note your ID in the contributor list.
 
 ## 💡 Learning Experience (Encourage Beginners Together)
 > 💡 Note: I am also a beginner. The following are real experiences during development, hoping to communicate and progress with everyone:
